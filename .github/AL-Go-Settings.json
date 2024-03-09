@@ -8,5 +8,6 @@
   "UpdateGitHubGoSystemFilesSchedule": "0 0 * * 6",
   "enableCodeCop": true,
   "enableUICop": true,
-  "assignPremiumPlan": true
+  "assignPremiumPlan": true,
+  "templateSha": "3cc6fcecbe3916c40e0e8bee473b9a51feaa9dfb"
 }
