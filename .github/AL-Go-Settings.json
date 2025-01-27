@@ -1,13 +1,13 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "useProjectDependencies": true,
   "nextMajorSchedule": "0 0 1 * *",
   "nextMinorSchedule": "0 0 1,15 * *",
   "currentSchedule": "0 0 1,15 * *",
   "UpdateGitHubGoSystemFilesSchedule": "0 0 * * 6",
   "enableCodeCop": true,
   "enableUICop": true,
+  "useProjectDependencies": true,
   "assignPremiumPlan": true,
   "templateSha": "ba4fc723e4c024674baa6a53ef1777402cfbaab0"
 }
